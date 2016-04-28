@@ -18,7 +18,7 @@
     android:layout_alignParentTop="true"
     android:layout_centerHorizontal="true"
     android:layout_marginTop="124dp"
-    android:text="Welcome to AndroidBite !!!"
+    android:text="Welcome to AndroidPdf app!!!"
     android:textColor="@android:color/black"
     android:textSize="20sp" />
 
